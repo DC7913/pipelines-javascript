@@ -6,6 +6,8 @@
 trigger:
 - master
 
+
+# The agent pool
 pool:
   vmImage: 'ubuntu-latest'
 
