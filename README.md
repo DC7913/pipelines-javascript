@@ -1,5 +1,7 @@
 [![Build Status](https://dongenergy-p.visualstudio.com/Denis%20Sandbox/_apis/build/status/DC7913.pipelines-javascript?branchName=master)](https://dongenergy-p.visualstudio.com/Denis%20Sandbox/_build/latest?definitionId=2946&branchName=master)
 
+
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
